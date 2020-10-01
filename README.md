@@ -2,7 +2,7 @@
 Quadratic Equation Solver: A simple program that solves the famous equation.
 
 Programmed in Python 3.8.5, uses CLI. 
-
+You can always rely on it to solve equations when you couldn't. XD
 ## Basics:
 - The user must indicate the coefficient values.
 - The quadratic equation has the form: a*x^2 + b*x + c = 0
